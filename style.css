@@ -1,0 +1,26 @@
+.headline {
+    background-color: black;
+    color: pink;
+}
+
+.text {
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.small-headline {
+    background-color: bisque;
+    color: blueviolet;
+}
+
+#color {
+    color: crimson;
+}
+
+.list-color {
+    color: aqua;
+}
+
+.background {
+    background-color: lightgreen;
+}
